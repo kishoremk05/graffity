@@ -130,7 +130,7 @@ const TeamSection = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.2 }}
         >
-          Meet Our Team <br /><span className="animate-pulse">🚀</span>
+          Meet Our Team <br /><span className="animate-ping">🚀</span>
         </motion.h2>
         <motion.p
           className="text-lg text-white max-w-2xl mx-auto"
